@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Intelligent Multi-Model Vehicle Mechanical Health Scoring and Predictive Diagnostic System Using OBD-II Data**
 
-- 📫 How to reach me **jatinsharma00877@gmail.com**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsharma56&" alt="jatinsharma56" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
