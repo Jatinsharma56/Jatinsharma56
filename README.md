@@ -14,7 +14,7 @@
 <a href="https://instagram.com/jatinsharma_.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsharma_.01" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/174031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="174031" height="30" width="40" /></a>
 </p>
-<div align="right">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Jatinsharma56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  
 </div>
