@@ -4,6 +4,9 @@
 <p align="left"> <a href="https://twitter.com/@jatinsharm2448" target="blank"><img src="https://img.shields.io/twitter/follow/@jatinsharm2448?logo=twitter&style=for-the-badge" alt="@jatinsharm2448" /></a> </p>
 
 - 🔭 I’m currently working on **Intelligent Multi-Model Vehicle Mechanical Health Scoring and Predictive Diagnostic System Using OBD-II Data**
+- 
+- Molecules dance
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 
 
 
