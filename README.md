@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
-
 <p align="center">
   <a href="https://twitter.com/@jatinsharm2448" target="blank">
     <img src="https://img.shields.io/twitter/follow/@jatinsharm2448?logo=twitter&style=for-the-badge" alt="@jatinsharm2448" />
