@@ -3,8 +3,6 @@
 ### 🚀 Currently Working On
 - 🔭 **Intelligent Multi-Model Vehicle Mechanical Health Scoring and Predictive Diagnostic System Using OBD-II Data**
 
----
-
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://twitter.com/@jatinsharm2448" target="blank">
