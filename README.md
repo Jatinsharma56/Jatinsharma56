@@ -18,9 +18,10 @@
 <a href="https://instagram.com/jatinsharma_.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsharma_.01" height="30" width="40" /></a>
 
 </p>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Jatinsharma56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300"/>
+  <img src="https://streak-stats.demolab.com?user=Jatinsharma56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
+</p> 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
