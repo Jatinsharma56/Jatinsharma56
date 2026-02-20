@@ -16,9 +16,9 @@
 <a href="https://twitter.com/@jatinsharm2448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jatinsharm2448" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jatinsharma-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinsharma-cse" height="30" width="40" /></a>
 <a href="https://instagram.com/jatinsharma_.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsharma_.01" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/174031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="174031" height="30" width="40" /></a>
+
 </p>
-<div align="left">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=Jatinsharma56&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  
 </div>
