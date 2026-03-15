@@ -4,15 +4,15 @@
 - 🔭 **Intelligent Multi-Model Vehicle Mechanical Health Scoring and Predictive Diagnostic System Using OBD-II Data.*
 
 ### 🔗 Connect with Me
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/@jatinsharm2448" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" />
 </a>
 <a href="https://linkedin.com/in/jatinsharma-cse" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" />
 </a>
 <a href="https://instagram.com/jatinsharma_.01" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="40" />
 </a>
 <a href="https://discord.gg/jatinsharma56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatinsharma56" height="60" width="50" /></a>
 </p>
