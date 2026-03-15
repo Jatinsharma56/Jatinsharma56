@@ -45,18 +45,13 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <a href="https://github.com/jatinsharma56">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=jatinsharma56&theme=radical&hide_border=true&cache_seconds=86400" alt="jatinsharma56's GitHub Streak" width="49%" />
-
-
-
-  <a href="https://github.com/jatinsharma56">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jatinsharma56&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinsharma56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=jatinsharma56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
