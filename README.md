@@ -6,15 +6,15 @@
 ### 🔗 Connect with Me
 <p align="center">
 <a href="https://twitter.com/@jatinsharm2448" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
 <a href="https://linkedin.com/in/jatinsharma-cse" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
 <a href="https://instagram.com/jatinsharma_.01" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 <a href="https://discord.gg/jatinsharma56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatinsharma56" height="60" width="50" /></a>
 </p>
@@ -34,14 +34,21 @@
 
 ---
 
-### 📊 
+
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <a href="https://github.com/jatinsharma56">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=jatinsharma56&theme=radical&hide_border=true&cache_seconds=86400" alt="jatinsharma56's GitHub Streak" width="49%" />
-</p>>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jatinsharma56">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jatinsharma56&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
