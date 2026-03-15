@@ -52,7 +52,7 @@
 
   
   <img src="https://streak-stats.demolab.com?user=jatinsharma56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 
