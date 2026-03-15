@@ -15,8 +15,8 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="40" />
 </a>
 <a href="https://discord.gg/jatinsharma56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatinsharma56" height="60" width="50" /></a>
- <p align="left"> <a href="mailto:jatinsharma00877@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jatin Sharma's Email"/></a></p>
-<p align="left"> <a href="mailto:jatinsharma00877@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jatin Sharma's Email"/></a></p>
+ <a href="mailto:jatinsharma00877@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jatin Sharma's Email"/></a>
+
 
 </p>
 
