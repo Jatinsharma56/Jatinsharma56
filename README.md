@@ -1,7 +1,4 @@
  <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jatin Sharma</h1>
- 
-### 🚀 Currently Working On
-- 🔭 **Intelligent Multi-Model Vehicle Mechanical Health Scoring and Predictive Diagnostic System Using OBD-II Data.*
 
 ### 🔗 Connect with Me
 <p align="left">
