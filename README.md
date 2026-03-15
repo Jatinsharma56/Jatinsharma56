@@ -22,9 +22,6 @@
 
 </p>
 
-
-### 🛠 Languages & Tools
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="150" align="right">
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="100"/>
