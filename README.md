@@ -37,9 +37,11 @@
 ### 📊 
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="250"/ align="left">
-  <img src="https://streak-stats.demolab.com?user=Jatinsharma56&theme=dracula&hide_border=false" height="180"/>
-</p>
+  <a href="https://github.com/jatinsharma56">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=jatinsharma56&theme=radical&hide_border=true&cache_seconds=86400" alt="jatinsharma56's GitHub Streak" width="49%" />
+</p>>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
