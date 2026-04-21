@@ -40,8 +40,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
 
-<table>
-<tr>
 
 <td width="65%" align="center">
 
@@ -63,14 +61,13 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
 
-</td>
+
 
 <td width="35%" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250"/>
-</td>
 
-</tr>
-</table>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
