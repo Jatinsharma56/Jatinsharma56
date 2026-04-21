@@ -1,6 +1,9 @@
 
 <h1 align="center">
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30"> I'm Jatin Sharma
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
 </h1>
 
 <p align="center">
