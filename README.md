@@ -64,12 +64,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=jatinsharma56&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&theme=radical" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=jatinsharma56&theme=radical" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="190"/>
 </p>
 
 <p align="left">
