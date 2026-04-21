@@ -6,11 +6,7 @@
 </p>
 </h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jatinsharma56">
-    <img src="https://komarev.com/ghpvc/?username=jatinsharma56&label=Profile%20views&color=00FFFF&style=flat-square"/>
-  </a>
-</p>
+
 
 
 <p align="center">
@@ -39,6 +35,9 @@
 </p>
 
 ## 🚀 Tech Stack
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
 
 <table>
 <tr>
