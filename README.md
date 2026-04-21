@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋 I'm Jatin Sharma</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jatinsharma56&color=blue" />
 </p>
