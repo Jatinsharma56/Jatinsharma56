@@ -38,25 +38,6 @@
 </p>
 
 
-
-
-  <a href="https://twitter.com/@jatinsharm2448">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="60"/>
-  </a>
-  <a href="https://linkedin.com/in/jatinsharma-cse">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
-  </a>
-  <a href="https://instagram.com/jatinsharma_.01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="60"/>
-  </a>
-  <a href="https://discord.gg/jatinsharma56">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="60"/>
-  </a>
-  <a href="mailto:jatinsharma00877@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
