@@ -129,18 +129,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinsharma56&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsharma56&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=jatinsharma56&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jatinsharma56&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+</p>
+
 
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,html,css,python,java,c,cpp,git,github,linux,docker,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,mongodb,react,nodejs,html,css,python,java,c,cpp,git,github,linux,docker,mysql&perline=8" />
 </p>
 
 
@@ -148,7 +153,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350"/>
 </p>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300"/>
+</p>
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950">
