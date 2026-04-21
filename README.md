@@ -35,7 +35,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&theme=radical" height="180"/>
