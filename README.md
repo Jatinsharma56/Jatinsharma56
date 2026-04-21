@@ -1,29 +1,34 @@
  <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jatin Sharma</h1>
- <p align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jatin Sharma</h1>
 
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=jatinsharma56">
     <img src="https://komarev.com/ghpvc/?username=jatinsharma56&label=Profile%20views&color=00FFFF&style=flat-square" alt="jatinsharma56's profile views" />
   </a>
 </p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" align="center">
-<p align="left">
-<a href="https://twitter.com/@jatinsharm2448" target="blank">
- <p>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" />
-  </p>
-</a>
-</p>
-<a href="https://linkedin.com/in/jatinsharma-cse" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" />
-</a>
-<a href="https://instagram.com/jatinsharma_.01" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="40" />
-</a>
-<a href="https://discord.gg/jatinsharma56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatinsharma56" height="60" width="50" /></a>
- <a href="mailto:jatinsharma00877@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jatin Sharma's Email"/></a>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
+
+<p align="center">
+  <a href="https://twitter.com/@jatinsharm2448" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jatinsharma-cse" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" />
+  </a>
+  <a href="https://instagram.com/jatinsharma_.01" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="40" />
+  </a>
+  <a href="https://discord.gg/jatinsharma56" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatinsharma56" height="50" width="40" />
+  </a>
+  <a href="mailto:jatinsharma00877@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jatin Sharma's Email" height="50" />
+  </a>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="180" align="right">
 <p align="left">
