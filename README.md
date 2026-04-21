@@ -7,12 +7,13 @@
 </h1>
 
 
-
-
 <p align="center">
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+  <a href="https://komarev.com/ghpvc/?username=jatinsharma56">
+    <img src="https://komarev.com/ghpvc/?username=jatinsharma56&label=Profile%20views&color=00FFFF&style=flat-square"/>
+  </a>
 </p>
+
+
   <a href="https://twitter.com/@jatinsharm2448">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"/>
   </a>
