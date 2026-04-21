@@ -57,6 +57,8 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="90"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="90"/>
 </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<br><br>
 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
@@ -71,9 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="190"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="170"/>
 </p>
 
 <p align="left">
