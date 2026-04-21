@@ -65,60 +65,8 @@
 
 
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jatin Sharma</h1>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jatinsharma56">
-    <img src="https://komarev.com/ghpvc/?username=jatinsharma56&label=Profile%20views&color=00FFFF&style=flat-square" alt="jatinsharma56's profile views" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/@jatinsharm2448" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" /></a>
-  <a href="https://linkedin.com/in/jatinsharma-cse" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" /></a>
-  <a href="https://instagram.com/jatinsharma_.01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="40" /></a>
-  <a href="https://discord.gg/jatinsharma56" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jatinsharma56" height="50" width="40" /></a>
-  <a href="mailto:jatinsharma00877@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jatin Sharma's Email"/></a>
-</p>
 
 ---
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="jatinsharma56's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=jatinsharma56&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
-</div>
-
-
-
-
-
-
-
-
-
-
 
 
 
