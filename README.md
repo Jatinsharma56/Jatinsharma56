@@ -45,8 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="150"/>
 </p>
 
-## 🚀 Tech Stack
-
 <p align="left">
 
 
