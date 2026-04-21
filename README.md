@@ -10,6 +10,7 @@
 <a href="https://twitter.com/@jatinsharm2448" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="40" />
 </a>
+</p>
 <a href="https://linkedin.com/in/jatinsharma-cse" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" />
 </a>
