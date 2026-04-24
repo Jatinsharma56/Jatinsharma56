@@ -72,7 +72,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px; aspect-ratio:16/9; object-fit:cover;">
 </div>
 
