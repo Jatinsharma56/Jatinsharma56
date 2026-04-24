@@ -142,13 +142,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70"/>
 </p>
 
-<!-- RIGHT GIF (INSIDE SAME BLOCK) -->
+<!-- RIGHT GIF -->
 <p align="right">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
 </p>
 
+</div>
+
+<!-- FORCE CLEAR -->
 <div style="clear: both;"></div>
 
+<!-- BANNER -->
 <div align="left">
 <img src="https://i.redd.it/bpxxqqvps4h91.gif" width="100%">
 </div>
+
