@@ -42,7 +42,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350"/>
 
 </p>
 
@@ -67,6 +66,9 @@
 
 
 
+<div align="center">
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px; aspect-ratio:16/9; object-fit:cover;">
+</div>
 
 
 
