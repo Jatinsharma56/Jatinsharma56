@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&theme=radical" height="180"/> <img src="https://streak-stats.demolab.com?user=jatinsharma56&theme=radical" height="180"/> </p><p align="center">
+<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jatinsharma56&theme=radical" height="150"/> <img src="https://streak-stats.demolab.com?user=jatinsharma56&theme=radical" height="150"/> </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsharma56&layout=compact&theme=dracula" height="150"/>
 </p>
 
