@@ -146,7 +146,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
 </p>
 
-<!-- REMOVE EMPTY LINES ABOVE THIS -->
+<br clear="both">
+
 <div align="left">
-<img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px; aspect-ratio:16/9; object-fit:cover;">
+<img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px;">
 </div>
